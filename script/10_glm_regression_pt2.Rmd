@@ -113,6 +113,8 @@ Let's compare them to each other:
 anova(model0, model1)
 ```
 
+We see that the models differ from each other (look a the *p*-value of the comparison) and that the model with the four predictors has the lower Residuals (RSS) value meaning there is less error between the model and the observed data relative to the simpler intercept-only model (i.e., the mean) and the observed data.
+
 ### Checking our Assumptions
 
 OK, so they differ - now let's plot information about our model assumptions - remember, we are particularly interested in Cook's distance values for our case...
@@ -221,7 +223,7 @@ steplimitsboth <- step(model0, scope = list (upper = model1), direction = "both"
 
 ### Checking our Assumptions
 
-```{r}
+```{r, warning=FALSE, message=FALSE}
 check_model(steplimitsboth)
 ```
 
