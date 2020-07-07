@@ -13,13 +13,11 @@ output:
 
 First off I'd like you to watch the following video which builds on the first regression workshop. We explore how to build regression models with more than one predictor in R using the `lm()` function, test our model assumptions, and interpret the output. We look at different ways of building stepwise regression models with multiple predictors, before finishing by looking at mediation and moderation. 
 
-[Link to YouTube video here]
-
 &nbsp;&nbsp;
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/TRUbHYPRZmg" frameborder="0" allowfullscreen></iframe>
+[Link to YouTube video here]
 
 </center>
 
