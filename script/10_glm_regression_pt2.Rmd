@@ -17,7 +17,7 @@ First off I'd like you to watch the following video which builds on the first re
 
 <center>
 
-[Link to YouTube video here]
+<iframe width="560" height="315" src="https://youtube.com/embed/tircoVBi75A" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -34,8 +34,6 @@ If you have a Google account, you can also view and download the slides in a ran
 </center>
 
 &nbsp;&nbsp;
-
-[Link to live coding video]
 
 # Multiple Regression 
 

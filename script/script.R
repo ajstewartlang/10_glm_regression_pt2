@@ -189,7 +189,7 @@ Xc    <- c(scale(X, center = TRUE, scale = FALSE)) # Centering IV; hours of slee
 Zc    <- c(scale(Z,  center = TRUE, scale = FALSE)) # Centering moderator; coffee consumption
 
 # Moderation "By Hand"
-fitMod <- lm(Y ~ Xc + Zc + Xc*Zc) # Model interacts IV & moderator
+fitMod <- lm(Y ~ Xc + Zc + Xc:Zc) # Model interacts IV & moderator
 summary(fitMod)
 
 summary(Moddata)
