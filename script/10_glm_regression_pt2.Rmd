@@ -23,13 +23,13 @@ First off I'd like you to watch the following video which builds on the first re
 
 ## Slides
 
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/glm_pt2.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to GLM Regression part 2 slides](../images/glm_pt2.png){width=75%}](https://docs.google.com/presentation/d/1YAdXxIr3Hk7Ql7GHUZFmBsVXd6X-k_L-nmOLhQnjqMM/edit?usp=sharing)
+[![Link to GLM Regression part 2 slides](../images/glm_pt2.png){width=75%}](../slides/glm_pt2.pdf)
 
 </center>
 
