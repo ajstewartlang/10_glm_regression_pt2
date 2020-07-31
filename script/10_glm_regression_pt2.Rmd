@@ -23,7 +23,7 @@ First off I'd like you to watch the following video which builds on the first re
 
 ## Slides
 
-You can download the slides in .pdf format by clicking on the image below. 
+You can download the slides in .odp format by clicking [here](../slides/glm_pt2.odp) and in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
