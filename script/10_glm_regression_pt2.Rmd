@@ -231,7 +231,7 @@ summary(steplimitsboth)
 
 You'll see that the same final model is arrived it in each case. We have three significant predictors.
 
-### Minimising our *p*-value
+### Entering predictors based on their *p*-values
 
 We can also use the `ols_step_forward_p()` function from the package `olsrr` - this works by finding the best model by entering the predictors based on their *p* values.  There are other methods within the `olsrr` package.  To see them, type `olsrr::` into the console window.
 
